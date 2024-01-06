@@ -81,7 +81,7 @@ This project is licensed under the [MIT License](LICENSE).
 
 <div align="center">
   <br>
-      <img src="https://github.com/RJohnPaul/CryptDeCrypt/blob/a047c7dc5028c1c24c4f73e301c189cdbe3e006a/Frame%207.png" alt="Project Banner">
+      <img src="https://github.com/RJohnPaul/NiceGUI_Starter/blob/c6d3ca0b93a1ae6f79b42ff4384e0f9f70d17921/Frame%208.png" alt="Project Banner">
   </br>
 </div>
 
