@@ -79,4 +79,10 @@ Contributions are welcome! Please open an issue or submit a pull request for any
 
 This project is licensed under the [MIT License](LICENSE).
 
+<div align="center">
+  <br>
+      <img src="https://github.com/RJohnPaul/CryptDeCrypt/blob/a047c7dc5028c1c24c4f73e301c189cdbe3e006a/Frame%207.png" alt="Project Banner">
+  </br>
+</div>
+
 ---
