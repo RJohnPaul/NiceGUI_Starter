@@ -23,8 +23,8 @@ This is a simple authentication example using FastAPI and NiceGUI. It stores ses
 1. Clone the repository:
 
 ```bash
-git clone <repository_url>
-cd <repository_directory>
+git clone https://github.com/RJohnPaul/NiceGUI_Starter.git
+cd NiceguiSimpleAdminPanel
 ```
 
 2. Install the required dependencies:
