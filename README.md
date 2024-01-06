@@ -2,6 +2,20 @@
 
 # Simple Authentication Starter Example with NiceGUI
 
+<div align="center">
+  <br>
+      <img src="https://github.com/RJohnPaul/CryptDeCrypt/blob/a047c7dc5028c1c24c4f73e301c189cdbe3e006a/Frame%207.png" alt="Project Banner">
+  </br>
+</div>
+
+<div align="center">
+  <br>
+      <img src="https://github.com/RJohnPaul/CryptDeCrypt/blob/3848b5636b76ee1a6f3326550d99547d78f8ff1c/Frame-5(1).png" alt="Project Banner">
+  </br>
+</div>
+
+<br/>
+
 This is a simple authentication example using FastAPI and NiceGUI. It stores session IDs in memory and does not involve password hashing. This example is meant for demonstration purposes and may not be suitable for production use. For a more robust authentication system, consider implementing OAuth2 or using the Authlib package.
 
 ## Getting Started
