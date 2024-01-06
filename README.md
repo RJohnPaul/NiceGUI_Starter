@@ -4,7 +4,7 @@
 
 <div align="center">
   <br>
-      <img src="https://github.com/RJohnPaul/CryptDeCrypt/blob/a047c7dc5028c1c24c4f73e301c189cdbe3e006a/Frame%207.png" alt="Project Banner">
+      <img src="https://github.com/RJohnPaul/NiceGUI_Starter/blob/832aea08fa2f6bddd55c1676991881a115e0ceda/Frame%207.png" alt="Project Banner">
   </br>
 </div>
 
