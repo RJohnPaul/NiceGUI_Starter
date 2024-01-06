@@ -10,7 +10,7 @@
 
 <div align="center">
   <br>
-      <img src="https://github.com/RJohnPaul/CryptDeCrypt/blob/3848b5636b76ee1a6f3326550d99547d78f8ff1c/Frame-5(1).png" alt="Project Banner">
+      <img src="https://github.com/RJohnPaul/NiceGUI_Starter/blob/273d1ec9eb84f14744338cdd422616bd9ea17155/Frame-5.png" alt="Project Banner">
   </br>
 </div>
 
